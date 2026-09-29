@@ -32,8 +32,8 @@ class Program
     static void Main(string[] args)
     {
         #region header
-        Console.WriteLine("01 Bokkortet");
-        Console.Title = "01 Bokkortet";
+        Console.WriteLine("02 Hälsningsmetoden");
+        Console.Title = "02 Hälsningsmetoden";
         Console.WriteLine("==========================");
         Console.WriteLine();
         #endregion
