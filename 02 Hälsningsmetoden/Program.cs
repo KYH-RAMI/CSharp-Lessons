@@ -1,0 +1,69 @@
+﻿using System;
+using System.Collections.Generic;
+
+
+class Bok
+{
+    public string Titel;
+    public string Författare;
+    public int sidantal;
+
+    public Bok(string titel, string författare, int sidantal)
+    {
+        Titel = titel;
+        Författare = författare;
+        this.sidantal = sidantal;
+    }
+
+    public void Presentera()
+    {
+        
+            Console.WriteLine("Titel: " + Titel);
+            Console.WriteLine("Författare: " + Författare);
+            Console.WriteLine("Sidantal: " + sidantal);
+            Console.WriteLine();
+        
+    }
+
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        #region header
+        Console.WriteLine("01 Bokkortet");
+        Console.Title = "01 Bokkortet";
+        Console.WriteLine("==========================");
+        Console.WriteLine();
+        #endregion
+
+        // Skapa bokobjekt
+        Bok bok1 = new Bok("Berättelsen om Rami", "Rami Issa", 200);
+        Bok bok2 = new Bok("Sagan om Koko och Bobo", "RoRo", 300);
+
+        //Skapa en lista för att lagra böckerna
+        List<Bok> böcker = new List<Bok>();
+        böcker.Add(bok1);
+        böcker.Add(bok2);
+
+        //Visa information om böckerna
+        Console.WriteLine("Boklista: \n");
+
+        foreach (Bok bok in böcker)
+        {
+             bok.Presentera();
+        }
+        
+
+
+
+
+        #region footer
+        Console.WriteLine("\n\n==========================");
+        Console.WriteLine("\nTryck på en tangent för att avsluta...");
+        Console.ReadKey();
+        #endregion
+
+    }
+}
