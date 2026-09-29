@@ -3,4 +3,5 @@
   <Project Path="02 Hälsningsmetoden/02 Hälsningsmetoden.csproj" Id="58f85b09-43e0-42b7-b04a-20e128ecbb7f" />
   <Project Path="03 Kundkortet/03 Kundkortet.csproj" Id="2602b4e7-3321-495d-af46-18f8dbdf2cae" />
   <Project Path="04 Hundgården/04 Hundgården.csproj" Id="13bf98ea-1efc-47d7-b3ad-58fbdd347fd4" />
+  <Project Path="05 Produkt/05 Produkt.csproj" Id="2dec55e7-5910-4ee4-a38a-4bea9d86fed2" />
 </Solution>
