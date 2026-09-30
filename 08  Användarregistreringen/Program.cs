@@ -1,8 +1,8 @@
 ﻿
 class Användare
 {
-    public string Användarnamn { get; set; }
-    public string Lösenord { get; set; }
+    public string Användarnamn { get; private set; }
+    public string Lösenord { get; private set; }
 
     public Användare(string användarnamn, string lösenord)
     {
