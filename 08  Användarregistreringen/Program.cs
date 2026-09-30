@@ -1,10 +1,4 @@
-﻿/*
- * 8. Användarregistreringen (Konstruktorn)
-Kravspecifikation:
-. Skapa en klass Anvandare med egenskaperna Anvandarnamn och Losenord.
-
-*/
-
+﻿
 class Användare
 {
     public string Användarnamn { get; set; }
