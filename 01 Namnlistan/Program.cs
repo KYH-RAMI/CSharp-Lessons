@@ -15,7 +15,7 @@ string[] NamnListan = new string[5]
 };
 
 Console.WriteLine($"Första namnet: {NamnListan[0]}");
-Console.WriteLine($"Sista namnet: {NamnListan[4]}");
+Console.WriteLine($"Sista namnet: {NamnListan[NamnListan.Length - 1]}");
 
 
 #region footer
