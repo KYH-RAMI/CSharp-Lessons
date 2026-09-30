@@ -13,4 +13,5 @@
   <Project Path="12 Spellistan/12 Spellistan.csproj" Id="f94cc056-4c2d-4ca8-b958-efaed4a15034" />
   <Project Path="13 Kloningsmaskinen/13 Kloningsmaskinen.csproj" Id="c03f9e6e-0ca1-41ae-822c-5aa0b3b4c2e5" />
   <Project Path="14 Loggfilen/14 Loggfilen.csproj" Id="89666b3f-cdca-4e68-90ec-e417f515391e" />
+  <Project Path="15 TungData/15 TungData.csproj" Id="7df262c8-ee6f-483e-a029-d2aed6d2821a" />
 </Solution>
