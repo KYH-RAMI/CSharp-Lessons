@@ -9,4 +9,5 @@
   <Project Path="08  Användarregistreringen/08  Användarregistreringen.csproj" Id="94650d20-0bf6-437e-a70f-187e44b1d543" />
   <Project Path="09 Smarttelefon/09 Smarttelefon.csproj" Id="d917c3de-5256-4679-8556-ee68e5f20ec4" />
   <Project Path="10 SerieNumGeneratorn/10 SerieNumGeneratorn.csproj" Id="a1f487e8-4d77-4ef7-9db5-648db03d32d0" />
+  <Project Path="11 Verktygslådan/11 Verktygslådan.csproj" Id="e566d36f-be16-46ef-aa5c-0b96d7277a1d" />
 </Solution>
