@@ -29,11 +29,17 @@ for (int i = 0; i < namn.Length; i++)
             }
             Console.WriteLine(namn[i]);
         }
+  
+     
        
     } 
     
 }
 
+if(!DuplikatHittad)
+{
+    Console.WriteLine("Inga duplikat namn hittades");
+}
 
 #region footer
 Console.WriteLine("\n\n==========================");
