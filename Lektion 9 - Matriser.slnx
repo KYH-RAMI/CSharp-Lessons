@@ -5,4 +5,5 @@
   <Project Path="04 Hundgården/04 Hundgården.csproj" Id="13bf98ea-1efc-47d7-b3ad-58fbdd347fd4" />
   <Project Path="05 Produkt/05 Produkt.csproj" Id="2dec55e7-5910-4ee4-a38a-4bea9d86fed2" />
   <Project Path="06 Bankkonto/06 Bankkonto.csproj" Id="17608377-0cb7-41b4-9cf3-d2e0130ef121" />
+  <Project Path="07 Bil/07 Bil.csproj" Id="9e822075-4c1b-4973-8b5e-9229ca1a3377" />
 </Solution>
