@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Den smarta lampan/01 Den smarta lampan.csproj" />
+  <Project Path="02 Digitala husdjuret/02 Digitala husdjuret.csproj" />
+  <Project Path="03 Profilen/03 Profilen.csproj" />
+  <Project Path="04 Biljetten/04 Biljetten.csproj" />
+  <Project Path="05 Räknaren/05 Räknaren.csproj" />
+  <Project Path="06 Bankkontot/06 Bankkontot.csproj" />
+  <Project Path="07 Temperaturregulatorn/07 Temperaturregulatorn.csproj" />
+  <Project Path="08 Rollspelskaraktären/08 Rollspelskaraktären.csproj" />
+  <Project Path="09 Kassaskåpet/09 Kassaskåpet.csproj" />
+  <Project Path="10 Kaffemaskinen/10 Kaffemaskinen.csproj" />
+  <Project Path="11 Flygbokningen/11 Flygbokningen.csproj" />
+  <Project Path="12 Musikspelaren/12 Musikspelaren.csproj" />
+  <Project Path="13 Lagerhantering/13 Lagerhantering.csproj" />
+  <Project Path="14 Trafikljussimulatorn/14 Trafikljussimulatorn.csproj" />
+  <Project Path="15 Loggningssystemet/15 Loggningssystemet.csproj" />
+</Solution>
