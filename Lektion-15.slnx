@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Dörrvakten/01 Dörrvakten.csproj" />
+  <Project Path="02 Fartbegränsaren/02 Fartbegränsaren.csproj" />
+  <Project Path="03 Anonyma-Felmeddelandet/03 Anonyma-Felmeddelandet.csproj" />
+  <Project Path="04 Låsta-Loggboksinlägget/04 Låsta-Loggboksinlägget.csproj" />
+  <Project Path="05 Den-surrade-kompassen/05 Den-surrade-kompassen.csproj" />
+  <Project Path="06 Robusta-Bokningsnumret/06 Robusta-Bokningsnumret.csproj" />
+  <Project Path="07 API-parser/07 API-parser.csproj" />
+  <Project Path="08 Rollbaserad-dörrvakt/08 Rollbaserad-dörrvakt.csproj" />
+  <Project Path="09 Maskerat-databasundantag/09 Maskerat-databasundantag.csproj" />
+  <Project Path="10 Historik/10 Historik.csproj" />
+  <Project Path="11 PassagerarRegistret/11 PassagerarRegistret.csproj" />
+  <Project Path="12 SystemModulen/12 SystemModulen.csproj" />
+  <Project Path="13 Dataintegritet/13 Dataintegritet.csproj" />
+  <Project Path="14 API-skölden/14 API-skölden.csproj" />
+  <Project Path="15 Fallback-konfigurator/15 Fallback-konfigurator.csproj" />
+</Solution>
