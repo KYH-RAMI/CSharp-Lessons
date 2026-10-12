@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Bil/01 Bil.csproj" />
+  <Project Path="02 Hund/02 Hund.csproj" />
+  <Project Path="03 Produkt/03 Produkt.csproj" />
+  <Project Path="04 Användare/04 Användare.csproj" />
+  <Project Path="05 Maträtt/05 Maträtt.csproj" />
+  <Project Path="06 Bankapplikation/06 Bankapplikation.csproj" />
+  <Project Path="07 Rektangel/07 Rektangel.csproj" />
+  <Project Path="08 Student/08 Student.csproj" />
+  <Project Path="09 Temperatur/09 Temperatur.csproj" />
+  <Project Path="10 Order/10 Order.csproj" />
+  <Project Path="11 Tamagotchi/11 Tamagotchi.csproj" />
+  <Project Path="12 Biluthyrningssystem/12 Biluthyrningssystem.csproj" />
+  <Project Path="13 Produktlager/13 Produktlager.csproj" />
+  <Project Path="14 Utmaning-RPG Karaktär/14 Utmaning-RPG Karaktär.csproj" />
+  <Project Path="15 Utmaning Smart Hem/15 Utmaning Smart Hem.csproj" />
+</Solution>
