@@ -4,13 +4,13 @@ namespace Röda_uppgifter_11_Euro
 {
     public class Euro
     {
-        public double Belopp
+        public decimal Belopp
         {
             get; set;
         }
 
         // Bekväm konstruktor
-        public Euro(double belopp) => Belopp = belopp;
+        public Euro(decimal belopp) => Belopp = belopp;
 
         // Parameterlös konstruktor behövs för objektinitierare om man vill använda "new Euro { ... }"
         public Euro()
@@ -39,8 +39,8 @@ namespace Röda_uppgifter_11_Euro
             #endregion
 
             // ---------- 1. Skapa två Euro-objekt ----------
-            var e1 = new Euro(12.50);
-            var e2 = new Euro(7.75);
+            var e1 = new Euro(12.50m);
+            var e2 = new Euro(7.75m);
 
             Console.WriteLine($"e1 = {e1}");
             Console.WriteLine($"e2 = {e2}");
@@ -50,7 +50,7 @@ namespace Röda_uppgifter_11_Euro
             Console.WriteLine($"\ne1 + e2 = {total}");
 
             // ---------- 3. Kedja flera additioner ----------
-            var e3 = new Euro(0.99);
+            var e3 = new Euro(0.99m);
             Euro summa = e1 + e2 + e3;
             Console.WriteLine($"\ne1 + e2 + e3 = {summa}");
 
