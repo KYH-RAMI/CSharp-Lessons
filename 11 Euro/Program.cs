@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace Röda_uppgifter_11_Euro
 {
     public class Euro
@@ -31,6 +31,9 @@ namespace Röda_uppgifter_11_Euro
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            System.Text.Encoding uTF8 = System.Text.Encoding.UTF8;
+            Console.InputEncoding = uTF8;
             #region header
             Console.WriteLine("11 Euro – operator +");
             Console.Title = "11 Euro – operator +";
