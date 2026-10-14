@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace Generisk_Repository_Simulering
 {
     public class DataLager<T>
@@ -57,6 +57,9 @@ namespace Generisk_Repository_Simulering
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            System.Text.Encoding uTF8 = System.Text.Encoding.UTF8;
+            Console.InputEncoding = uTF8;
             #region header
             Console.WriteLine("13 Generiskt DataLager");
             Console.Title = "13 Generiskt DataLager";

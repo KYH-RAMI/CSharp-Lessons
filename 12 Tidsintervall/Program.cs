@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace Tidsintervall
 {
     public class Tidsintervall
@@ -43,6 +43,9 @@ namespace Tidsintervall
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            System.Text.Encoding uTF8 = System.Text.Encoding.UTF8;
+            Console.InputEncoding = uTF8;
             #region header
             Console.WriteLine("12 Tidsintervall – jämförelseoperatorer");
             Console.Title = "12 Tidsintervall – jämförelseoperatorer";
