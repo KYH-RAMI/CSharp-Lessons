@@ -37,8 +37,8 @@ namespace Struktur_2D_punkt
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Punkt2D – struct vs class";
+            Console.WriteLine("03 Punkt2D – struct vs class");
+            Console.Title = "03 Punkt2D – struct vs class";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

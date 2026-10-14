@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace GeneriskLada
+namespace GeneriskLåda
 {
     // ===== Generisk klass – kan hålla vilken typ som helst =====
-    public class Lada<T>
+    public class Låda<T>  // <T> betyder att det är en generisk klass
     {
         // Egenskap för att komma åt värdet
         public T Value
@@ -33,29 +33,29 @@ namespace GeneriskLada
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Generisk låda";
+            Console.WriteLine("07 Generisk låda");
+            Console.Title = "07 Generisk låda";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion
 
             // ---------- 1. Låda med int ----------
-            var intLada = new Lada<int>();
+            var intLada = new Låda<int>();
             intLada.LaggTill(42);
             Console.WriteLine($"int:    {intLada.HittaUt()}");        // 42
 
             // ---------- 2. Låda med string ----------
-            var stringLada = new Lada<string>();
+            var stringLada = new Låda<string>();
             stringLada.LaggTill("Hej världen");
             Console.WriteLine($"string: {stringLada.HittaUt()}");     // Hej världen
 
             // ---------- 3. Låda med en egen klass ----------
-            var personLada = new Lada<Person>();
+            var personLada = new Låda<Person>();
             personLada.LaggTill(new Person("Alice", 30));
             Console.WriteLine($"Person: {personLada.HittaUt()}");
 
             // ---------- 4. Låda med double ----------
-            var doubleLada = new Lada<double>();
+            var doubleLada = new Låda<double>();
             doubleLada.LaggTill(3.14);
             Console.WriteLine($"double: {doubleLada.HittaUt()}");
 

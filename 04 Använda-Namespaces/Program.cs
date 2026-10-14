@@ -37,8 +37,8 @@ namespace Namespaces
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Namespaces";
+            Console.WriteLine("04 Namespaces");
+            Console.Title = "04 Namespaces";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

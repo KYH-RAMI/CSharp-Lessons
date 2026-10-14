@@ -17,8 +17,8 @@ namespace _01_Statisk_verktygsklass
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine("");
-            Console.Title = "";
+            Console.WriteLine("01 Statisk verktygsklass");
+            Console.Title = "01 Statisk verktygsklass";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

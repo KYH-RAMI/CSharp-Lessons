@@ -58,8 +58,8 @@ namespace Generisk_Repository_Simulering
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Generiskt DataLager";
+            Console.WriteLine("13 Generiskt DataLager");
+            Console.Title = "13 Generiskt DataLager";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

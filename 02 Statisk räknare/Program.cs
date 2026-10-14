@@ -25,8 +25,8 @@ namespace StatiskRaknare
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Statisk räknare";
+            Console.WriteLine("02 Statisk räknare");
+            Console.Title = "02 Statisk räknare";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

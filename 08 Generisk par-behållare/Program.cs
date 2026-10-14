@@ -4,7 +4,7 @@ namespace Generisk_par_behållare
 {
     class Par<T, U>
     {
-        public T Forsta
+        public T Första
         {
             get; set;
         }
@@ -15,13 +15,13 @@ namespace Generisk_par_behållare
 
         public Par(T forsta, U andra)
         {
-            Forsta = forsta;
+            Första = forsta;
             Andra = andra;
         }
 
         // Snygg utskrift
         public override string ToString()
-            => $"({Forsta}, {Andra})";
+            => $"({Första}, {Andra})";
     }
 
     internal class Program
@@ -29,8 +29,8 @@ namespace Generisk_par_behållare
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Generisk par-behållare";
+            Console.WriteLine("08 Generisk par-behållare");
+            Console.Title = "08 Generisk par-behållare";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion
@@ -38,7 +38,7 @@ namespace Generisk_par_behållare
             // ---------- 1. string + int ----------
             var p1 = new Par<string, int>("Ålder", 30);
             Console.WriteLine($"p1: {p1}");
-            Console.WriteLine($"    Första = {p1.Forsta}");
+            Console.WriteLine($"    Första = {p1.Första}");
             Console.WriteLine($"    Andra  = {p1.Andra}");
 
             // ---------- 2. int + string (omvänd ordning) ----------

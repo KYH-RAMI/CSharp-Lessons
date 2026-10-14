@@ -39,8 +39,8 @@ namespace Veckolista
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Veckolista";
+            Console.WriteLine("09 Veckolista");
+            Console.Title = "09 Veckolista";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

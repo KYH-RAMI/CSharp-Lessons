@@ -10,8 +10,8 @@ namespace Uppgift6
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Record med with-uttryck";
+            Console.WriteLine("06 Record med with-uttryck");
+            Console.Title = "06 Record med with-uttryck";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

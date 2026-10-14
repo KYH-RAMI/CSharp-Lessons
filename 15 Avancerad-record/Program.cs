@@ -7,8 +7,8 @@ System.Text.Encoding uTF8 = System.Text.Encoding.UTF8;
 Console.InputEncoding = uTF8;
 
 #region header
-Console.WriteLine();
-Console.Title = "Record vs klass – jämförelse";
+Console.WriteLine("15 Record vs klass – jämförelse");
+Console.Title = "15 Record vs klass – jämförelse";
 Console.WriteLine("==========================");
 Console.WriteLine();
 #endregion

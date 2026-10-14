@@ -44,8 +44,8 @@ namespace Tidsintervall
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Tidsintervall – jämförelseoperatorer";
+            Console.WriteLine("12 Tidsintervall – jämförelseoperatorer");
+            Console.Title = "12 Tidsintervall – jämförelseoperatorer";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

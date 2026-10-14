@@ -29,8 +29,8 @@ namespace IndexerareSträngnyckelOrdbok
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Enkel ordbok";
+            Console.WriteLine("10 Enkel ordbok");
+            Console.Title = "10 Enkel ordbok";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

@@ -32,8 +32,8 @@ namespace Röda_uppgifter_11_Euro
         static void Main(string[] args)
         {
             #region header
-            Console.WriteLine();
-            Console.Title = "Euro – operator +";
+            Console.WriteLine("11 Euro – operator +");
+            Console.Title = "11 Euro – operator +";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion

@@ -54,8 +54,8 @@ namespace Valutaomvandling
             System.Text.Encoding uTF8 = System.Text.Encoding.UTF8;
             Console.InputEncoding = uTF8;
             #region header
-            Console.WriteLine();
-            Console.Title = "Valutaomvandling";
+            Console.WriteLine("14 Valutaomvandling");
+            Console.Title = "14 Valutaomvandling";
             Console.WriteLine("==========================");
             Console.WriteLine();
             #endregion
