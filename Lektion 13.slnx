@@ -2,5 +2,5 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
   </Folder>
-  <Project Path="01 Fordon/Lektion13.csproj" />
+  <Project Path="Lektion13/Lektion13.csproj" />
 </Solution>
