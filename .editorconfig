@@ -1,0 +1,23 @@
+# Root configuration
+root = true
+
+# All files
+[*]
+indent_style = space
+
+# XML files
+[*.xml]
+indent_size = 2
+
+# C# files
+[*.cs]
+indent_size = 4
+
+# Spell checking – Swedish and British English
+spelling_languages = sv-se,en-gb
+spelling_checkable_types = strings,identifiers,comments
+spelling_error_severity = hint
+
+# C# formatting
+csharp_preserve_single_line_blocks = true
+csharp_preserve_single_line_statements = true
