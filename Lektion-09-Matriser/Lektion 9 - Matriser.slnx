@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Sjökort/01 Sjökort.csproj" />
+  <Project Path="02 Passageraröversikten/02 Passageraröversikten.csproj" />
+  <Project Path="03 Temperaturloggen/03 Temperaturloggen.csproj" />
+  <Project Path="04 Sektionslagret/04 Sektionslagret.csproj" />
+  <Project Path="05 Hamnen/05 Hamnen.csproj" />
+  <Project Path="06 Radaravsökning/06 Radaravsökning.csproj" />
+  <Project Path="07 ContainerTerminalen/07 ContainerTerminalen.csproj" />
+  <Project Path="08 Lastbilskön/08 Lastbilskön.csproj" />
+  <Project Path="09 Logistikrutten/09 Logistikrutten.csproj" Id="fd2dee65-9bd0-493b-aaea-f59ab285c468" />
+  <Project Path="10 Skattjakten/10 Skattjakten.csproj" Id="c818665c-4d11-4aef-ae4c-1ab3e1009da1" />
+  <Project Path="11 FraktFartyget/11 FraktFartyget.csproj" Id="3c5f1f1f-1edf-4dd3-b181-3abf0a5959d5" />
+  <Project Path="12 Havsdjup/12 Havsdjup.csproj" Id="da657dd5-1e8a-4afc-8e79-8e1cebf66227" />
+  <Project Path="13 Lastutrymmet/13 Lastutrymmet.csproj" Id="cd09cd0f-53f6-4acd-94d3-85a3d8fe6ecf" />
+  <Project Path="14 Flygledartornet/14 Flygledartornet.csproj" Id="8c35f02c-c0af-406a-a184-83b0b71f7cba" />
+  <Project Path="15 Lastbalansering/15 Lastbalansering.csproj" Id="7a99b149-e25d-4871-a786-56b583940822" />
+</Solution>
