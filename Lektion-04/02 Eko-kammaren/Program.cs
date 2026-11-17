@@ -1,0 +1,10 @@
+﻿Console.WriteLine("02 Eko-kammaren");
+Console.WriteLine("======================");
+Console.WriteLine("Vad har du på hjärtat? ");
+string? msg = Console.ReadLine();
+Console.ForegroundColor = ConsoleColor.DarkCyan;
+Console.WriteLine($"Eko: {msg}");
+Console.ResetColor();
+Console.WriteLine("======================");
+Console.WriteLine("\nTryck på en tangent för att avsluta...");
+Console.ReadKey();

@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="01 Hälsningsmaskinen/01 Hälsningsmaskinen.csproj" />
+  <Project Path="02 Eko-kammaren/02 Eko-kammaren.csproj" Id="26e702c5-cdd3-4482-973e-51d98c53ba22" />
+  <Project Path="03 Tecken-speglingen/03 Tecken-speglingen.csproj" Id="e8c4345d-da13-4176-a96f-61e8da4c1ed7" />
+  <Project Path="04 Åldersverifiering för krogen/04 Åldersverifiering för krogen.csproj" Id="b2265d09-5126-49bf-80e2-bca9a5c8aa2a" />
+  <Project Path="05 Kvittoskrivaren/05 Kvittoskrivaren.csproj" Id="0fa10754-3ef7-4758-b074-14fa650051e1" />
+  <Project Path="06 Säker-sifferinmatning/06 Säker-sifferinmatning.csproj" Id="234ce71f-3e1a-4669-9655-cc430652f1c8" />
+  <Project Path="07 Texttrimning-o-formatering/07 Texttrimning-o-formatering.csproj" Id="e4e6ac9e-6200-4de4-80f9-f6d07414d7c6" />
+  <Project Path="08 Dynamisk-titelbar/08 Dynamisk-titelbar.csproj" Id="faa6e171-fa67-467e-abb1-d84cc192de06" />
+  <Project Path="09 Bakgrundsväxlaren/09 Bakgrundsväxlaren.csproj" Id="853fbf4e-cfc7-424a-b525-2fe0f1e309b8" />
+  <Project Path="10 Menysystemet i konsolen/10 Menysystemet i konsolen.csproj" Id="de134851-4932-4662-b724-27b92f1bd42f" />
+  <Project Path="11 Lösenordsmaskaren/11 Lösenordsmaskaren.csproj" Id="c596372c-4ad9-4aca-8356-654ee441d87e" />
+  <Project Path="12 Det-kraschsäkra-formuläret/12 Det-kraschsäkra-formuläret.csproj" Id="7a6655c2-4550-4590-9c51-3e7627b1228d" />
+</Solution>

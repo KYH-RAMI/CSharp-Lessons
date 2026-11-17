@@ -1,0 +1,12 @@
+﻿Console.WriteLine("01 Hälsningsmaskinen");
+Console.WriteLine("======================");
+Console.WriteLine("Hej, vad heter du? ");
+string? namn = Console.ReadLine();
+Console.WriteLine("Vilken stad bor du i? ");
+string? stad = Console.ReadLine();
+Console.WriteLine("\n");
+Console.Write($"Hej {namn}! Du bor i {stad}.");
+Console.WriteLine("\n");
+Console.WriteLine("======================");
+Console.WriteLine("\nTryck på en tangent för att avsluta...");
+Console.ReadKey();
