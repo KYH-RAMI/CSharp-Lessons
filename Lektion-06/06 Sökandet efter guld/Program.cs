@@ -13,12 +13,13 @@ string[] items =
 
 foreach (string item in items)
 {
+    Console.WriteLine(item);
     if (item == "Guld")
     {
         Console.WriteLine("Guld hittat!");
         break;
     }
-    Console.WriteLine(item);
+    
 }
 
 Console.WriteLine("\n\n");

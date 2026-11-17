@@ -26,7 +26,7 @@ for (int i = 0; i < temperaturer.Length; i++)
 double medeltemperaturen = summa / temperaturer.Length;
 
 Console.WriteLine($"\n\nDet finns {temperaturer.Length} temperaturer \n");
-Console.WriteLine($"Medeltemperaturen är: {medeltemperaturen} grader.\n");
+Console.WriteLine($"Medeltemperaturen är: {medeltemperaturen:F1} grader.\n");
 Console.WriteLine($"Dagens högsta temperatur var {högstaTemperatur} grader.\n");
 
 
