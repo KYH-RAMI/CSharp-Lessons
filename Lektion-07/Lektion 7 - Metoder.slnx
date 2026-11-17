@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Hälsningsroboten/01 Hälsningsroboten.csproj" />
+  <Project Path="02 SkrivLinje/02 SkrivLinje.csproj" />
+  <Project Path="03 Personlig hälsning/03 Personlig hälsning.csproj" />
+  <Project Path="04 Temperaturtips/04 Temperaturtips.csproj" />
+  <Project Path="05 Tärningskastet/05 Tärningskastet.csproj" />
+  <Project Path="06 Kvittobyggaren/06 Kvittobyggaren.csproj" />
+  <Project Path="07 Säker textinmatning/07 Säker textinmatning.csproj" />
+  <Project Path="08 Validera e-post/08 Validera e-post.csproj" />
+  <Project Path="09 Betygskalkylatorn/09 Betygskalkylatorn.csproj" />
+  <Project Path="10 Standardmeddelande/10 Standardmeddelande.csproj" />
+  <Project Path="11 Säker sifferläsare/11 Säker sifferläsare.csproj" />
+  <Project Path="12 Textformateraren (out)/12 Textformateraren (out).csproj" />
+  <Project Path="13 Referensmodifiering/13 Referensmodifiering.csproj" Id="b53883a1-afed-496b-a906-ec22c73ccecb" />
+  <Project Path="14 Det flexibla prissystemet/14 Det flexibla prissystemet.csproj" Id="68323d92-d9b8-44f6-9311-564ab4c73619" />
+  <Project Path="15 Rekursiv nedräkning/15 Rekursiv nedräkning.csproj" Id="3e45217a-e9d0-4541-8585-5bd6beed6f1b" />
+</Solution>
