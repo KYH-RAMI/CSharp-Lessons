@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Namnlistan/01 Namnlistan.csproj" />
+  <Project Path="02 Inköpslistan på rad/02 Inköpslistan på rad.csproj" />
+  <Project Path="03 Gästlistan/03 Gästlistan.csproj" Id="b7905406-f91a-4155-914c-87047cff0d12" />
+  <Project Path="04 Temperaturer/04 Temperaturer.csproj" Id="268280a2-7a38-4f2c-89ae-1a097aca8f24" />
+  <Project Path="05 Skriv ut baklänges/05 Skriv ut baklänges.csproj" Id="c0625e2d-73e0-4d59-b471-b8873bd33f91" />
+  <Project Path="06 Dynamisk inköpslista/06 Dynamisk inköpslista.csproj" Id="506668fe-5b50-4854-9ee6-3cba1b914dbb" />
+  <Project Path="07 Sök i vektorn/07 Sök i vektorn.csproj" Id="d21d49f9-2294-4885-b589-c6a6b84a9653" />
+  <Project Path="08 Betygskollen/08 Betygskollen.csproj" Id="1d650e04-c42e-45e1-84d8-1f63ea4c144d" />
+  <Project Path="09 Säkerhetskopian/09 Säkerhetskopian.csproj" Id="149aae14-65a2-40ea-86d0-febc08772d63" />
+  <Project Path="10 Användarhantering/10 Användarhantering.csproj" Id="1582d47b-3e08-4d69-bc0b-5f2b945abc07" />
+  <Project Path="11 Detektiven/11 Detektiven.csproj" Id="dc09a47b-4802-48de-a984-1c8a46413027" />
+  <Project Path="12 Inmatning till fast array/12 Inmatning till fast array.csproj" Id="c64f1e31-f530-4d29-862a-3c50c1ff4642" />
+  <Project Path="13 Den växande arrayen/13 Den växande arrayen.csproj" Id="3b727f9b-119d-45c3-ad4e-32e0ab7c5a2e" />
+  <Project Path="14 Rullande logg/14 Rullande logg.csproj" Id="36cb998d-d4fb-4ccf-a506-a49c5598ed06" />
+  <Project Path="15 Array-rotation utan extra minne/15 Array-rotation utan extra minne.csproj" Id="40e9356d-b3ed-4d29-b043-df710ebfb837" />
+</Solution>
