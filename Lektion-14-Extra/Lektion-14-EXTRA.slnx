@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Hamnavgiftsberäkning/01 Hamnavgiftsberäkning.csproj" />
+  <Project Path="02 Bränslemätare/02 Bränslemätare.csproj" />
+  <Project Path="03 Loggbok/03 Loggbok.csproj" />
+  <Project Path="04 Väderstationen/04 Väderstationen.csproj" />
+  <Project Path="05 Nödsystemet/05 Nödsystemet.csproj" />
+  <Project Path="06 Digitala Menysystemet/06 Digitala Menysystemet.csproj" />
+  <Project Path="07 EgetMarintUndantag/07 EgetMarintUndantag.csproj" />
+  <Project Path="08 OrderHantering/08 OrderHantering.csproj" />
+  <Project Path="09 AIS-Mottagaren/09 AIS-Mottagaren.csproj" />
+  <Project Path="10 Kritiska-Motorn/10 Kritiska-Motorn.csproj" />
+  <Project Path="11 Dynamisk Instrumentpanel/11 Dynamisk Instrumentpanel.csproj" />
+  <Project Path="12 API-anropet/12 API-anropet.csproj" />
+  <Project Path="13 Dependency Injection/13 Dependency Injection.csproj" />
+  <Project Path="14 SjökortsPlugin/14 SjökortsPlugin.csproj" />
+  <Project Path="15 Loggsystemet/15 Loggsystemet.csproj" />
+</Solution>
