@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Fartyget/01 Fartyget.csproj" />
+  <Project Path="02 Bankkontot/02 Bankkontot.csproj" />
+  <Project Path="03 AbstraktaDjuret/03 AbstraktaDjuret.csproj" />
+  <Project Path="04 MarinaGränssnittet/04 MarinaGränssnittet.csproj" />
+  <Project Path="05 LogistikFordon/05 LogistikFordon.csproj" />
+  <Project Path="06 Kassaskåpet/06 Kassaskåpet.csproj" />
+  <Project Path="07 GPS-mottagaren/07 GPS-mottagaren.csproj" />
+  <Project Path="08 HamnMaskin/08 HamnMaskin.csproj" />
+  <Project Path="09 MeddelandeSystemet/09 MeddelandeSystemet.csproj" />
+  <Project Path="10 Behörighetshierarki/10 Behörighetshierarki.csproj" Id="4b39bdab-4f2b-4109-9fe8-25244c6168b6" />
+  <Project Path="11 Marina-Sensor/11 Marina-Sensor.csproj" Id="60a78809-8007-4a33-8246-0c787dc1c9c6" />
+  <Project Path="12 Betalsystemet/12 Betalsystemet.csproj" Id="3de6fbf2-9001-487e-847a-e642a360d722" />
+  <Project Path="13 Loggboksfilter/13 Loggboksfilter.csproj" Id="4bda31e8-196d-4a19-b4a4-3a409438515d" />
+  <Project Path="14 Fabrikshierarki/14 Fabrikshierarki.csproj" Id="7be3badc-fba5-4e17-aa65-1c6ea6c040ef" />
+  <Project Path="15 Fartygsdelar/15 Fartygsdelar.csproj" Id="20a59a14-e370-40fc-8de3-6e5a4c1299e4" />
+</Solution>
