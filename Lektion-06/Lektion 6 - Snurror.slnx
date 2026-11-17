@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01Välkomstsnurran/01Välkomstsnurran.csproj" />
+  <Project Path="02 Inmatningskyddet/02 Inmatningskyddet.csproj" />
+  <Project Path="03 Räknaren/03 Räknaren.csproj" />
+  <Project Path="04 Baklänges/04 Baklänges.csproj" />
+  <Project Path="05 Namnlistan/05 Namnlistan.csproj" />
+  <Project Path="06 Sökandet efter guld/06 Sökandet efter guld.csproj" />
+  <Project Path="07 Hoppa över dolda filer/07 Hoppa över dolda filer.csproj" />
+  <Project Path="08 Multiplikationstabellen/08 Multiplikationstabellen.csproj" />
+  <Project Path="09 Menyvalet med nödutgång/09 Menyvalet med nödutgång.csproj" />
+  <Project Path="10 Textanalysatorn/10 Textanalysatorn.csproj" />
+  <Project Path="11.Temperaturloggen/11 Temperaturloggen.csproj" />
+  <Project Path="12 Den robusta sifferinmataren/12 Den robusta sifferinmataren.csproj" />
+  <Project Path="13 Rymdskeppets koordinater/13 Rymdskeppets koordinater.csproj" />
+  <Project Path="14 Sträng-komprimeraren/14 Sträng-komprimeraren.csproj" />
+  <Project Path="15 Flaggspelet med Bitwise/15 Flaggspelet med Bitwise.csproj" />
+</Solution>
