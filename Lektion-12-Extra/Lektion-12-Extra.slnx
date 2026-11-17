@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Hamnbokningar/01 Hamnbokningar.csproj" />
+  <Project Path="02 Båtposition/02 Båtposition.csproj" />
+  <Project Path="03 Loggboksinlägg/03 Loggboksinlägg.csproj" />
+  <Project Path="04 Lastboxen/04 Lastboxen.csproj" />
+  <Project Path="05 MarinLogistik/05 MarinLogistik.csproj" />
+  <Project Path="06 BåtbesättningsVaktLista/06 BåtbesättningsVaktLista.csproj" />
+  <Project Path="07 Ekonomisk Reskontra/07 Ekonomisk Reskontra.csproj" />
+  <Project Path="08 API-Svaret/08 API-Svaret.csproj" />
+  <Project Path="09 Reservdelslager/09 Reservdelslager.csproj" />
+  <Project Path="10 Meteorologiska Verktygslådan/10 Meteorologiska Verktygslådan.csproj" />
+  <Project Path="11 Att-Göra-Listan/11 Att-Göra-Listan.csproj" />
+  <Project Path="12 2D-Matris/12 2D-Matris.csproj" />
+  <Project Path="13 MeddelandeKö/13 MeddelandeKö.csproj" />
+  <Project Path="14 Avancerad Behörighetsmatchning/14 Avancerad Behörighetsmatchning.csproj" />
+  <Project Path="15 Ruttplaneringssystemet/15 Ruttplaneringssystemet.csproj" />
+</Solution>
