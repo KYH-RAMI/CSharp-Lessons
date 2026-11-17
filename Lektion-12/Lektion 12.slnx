@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Statisk verktygsklass/01 Statisk verktygsklass.csproj" />
+  <Project Path="02 Statisk räknare/02 Statisk räknare.csproj" />
+  <Project Path="03 Struktur-2D-punkt/03 Struktur-2D-punkt.csproj" />
+  <Project Path="04 Använda-Namespaces/04 Använda-Namespaces.csproj" />
+  <Project Path="05 Record-Användare/05 Record-Användare.csproj" />
+  <Project Path="06 Oföränderlig-Record/06 Oföränderlig-Record.csproj" />
+  <Project Path="07 Generisk låda/07 Generisk låda.csproj" />
+  <Project Path="08 Generisk par-behållare/08 Generisk par-behållare.csproj" />
+  <Project Path="09 Veckolista/09 Veckolista.csproj" />
+  <Project Path="10 Indexerare-Strängnyckel-Ordbok/10 Indexerare-Strängnyckel-Ordbok.csproj" />
+  <Project Path="11 Euro/11 Euro.csproj" />
+  <Project Path="12 Tidsintervall/12 Tidsintervall.csproj" />
+  <Project Path="13 Generisk-Repository-simulering/13 Generisk-Repository-simulering.csproj" />
+  <Project Path="14 Valutaomvandling/14 Valutaomvandling.csproj" />
+  <Project Path="15 Avancerad-record/15 Avancerad-record.csproj" />
+</Solution>
