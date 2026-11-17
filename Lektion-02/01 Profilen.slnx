@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="01 Profilen/01 Profilen.csproj" />
+  <Project Path="02 Produktkortet/02 Produktkortet.csproj" />
+  <Project Path="04 Kaffemaskinen/04 Kaffemaskinen.csproj" />
+  <Project Path="05 Registreringsformuläret/05 Registreringsformuläret.csproj" />
+  <Project Path="06 Chattbotten/06 Chattbotten.csproj" />
+  <Project Path="07 Biosalongen/07 Biosalongen.csproj" />
+  <Project Path="08 Väderstationen/08 Väderstationen.csproj" />
+  <Project Path="09 Sanning eller konsekvens/09 Sanning eller konsekvens.csproj" />
+  <Project Path="10 Memory overflow/10 Memory overflow.csproj" />
+  <Project Path="11 Den osynliga buggen/11 Den osynliga buggen.csproj" Id="6bee9608-2281-4dd3-8f85-58b8f62553f5" />
+  <Project Path="12 Null-coaalescring i praktiken/12 Null-coaalescring i praktiken.csproj" Id="a9698db1-571b-477c-83e5-23a250c111e1" />
+  <Project Path="13 Dynammmisk typing med object/13 Dynammmisk typing med object.csproj" Id="5424158f-1388-4b48-b11a-26cb2e4f41e8" />
+  <Project Path="Bokstavsdetektiven/03 Bokstavsdetektiven.csproj" />
+</Solution>
