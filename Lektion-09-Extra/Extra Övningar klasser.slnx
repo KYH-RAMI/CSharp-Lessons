@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Bokkortet/01 Bokkortet.csproj" />
+  <Project Path="02 Hälsningsmetoden/02 Hälsningsmetoden.csproj" Id="58f85b09-43e0-42b7-b04a-20e128ecbb7f" />
+  <Project Path="03 Kundkortet/03 Kundkortet.csproj" Id="2602b4e7-3321-495d-af46-18f8dbdf2cae" />
+  <Project Path="04 Hundgården/04 Hundgården.csproj" Id="13bf98ea-1efc-47d7-b3ad-58fbdd347fd4" />
+  <Project Path="05 Produkt/05 Produkt.csproj" Id="2dec55e7-5910-4ee4-a38a-4bea9d86fed2" />
+  <Project Path="06 Bankkonto/06 Bankkonto.csproj" Id="17608377-0cb7-41b4-9cf3-d2e0130ef121" />
+  <Project Path="07 Bil/07 Bil.csproj" Id="9e822075-4c1b-4973-8b5e-9229ca1a3377" />
+  <Project Path="08  Användarregistreringen/08  Användarregistreringen.csproj" Id="94650d20-0bf6-437e-a70f-187e44b1d543" />
+  <Project Path="09 Smarttelefon/09 Smarttelefon.csproj" Id="d917c3de-5256-4679-8556-ee68e5f20ec4" />
+  <Project Path="10 SerieNumGeneratorn/10 SerieNumGeneratorn.csproj" Id="a1f487e8-4d77-4ef7-9db5-648db03d32d0" />
+  <Project Path="11 Verktygslådan/11 Verktygslådan.csproj" Id="e566d36f-be16-46ef-aa5c-0b96d7277a1d" />
+  <Project Path="12 Spellistan/12 Spellistan.csproj" Id="f94cc056-4c2d-4ca8-b958-efaed4a15034" />
+  <Project Path="13 Kloningsmaskinen/13 Kloningsmaskinen.csproj" Id="c03f9e6e-0ca1-41ae-822c-5aa0b3b4c2e5" />
+  <Project Path="14 Loggfilen/14 Loggfilen.csproj" Id="89666b3f-cdca-4e68-90ec-e417f515391e" />
+  <Project Path="15 TungData/15 TungData.csproj" Id="7df262c8-ee6f-483e-a029-d2aed6d2821a" />
+</Solution>
