@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01 Boktiteln/01 Boktiteln.csproj" />
+  <Project Path="02 Egenskaper/02 Egenskaper.csproj" />
+  <Project Path="03 Standardkonstruktor/03 Standardkonstruktor.csproj" />
+  <Project Path="04 Enkel instansmetod/04 Enkel instansmetod.csproj" />
+  <Project Path="05 Flera objekt i en lista/05 Flera objekt i en lista.csproj" />
+  <Project Path="06 inkapsling med privat fält och validering/06 inkapsling med privat fält och validering.csproj" />
+  <Project Path="07 Verktygsklass/07 Verktygsklass.csproj" />
+  <Project Path="08 Objektsräknare/08 Objektsräknare.csproj" />
+  <Project Path="09 Constructor Overloading/09 Constructor Overloading.csproj" />
+  <Project Path="10 Objektinteraktion/10 Objektinteraktion.csproj" />
+  <Project Path="11 Logg och hanteringssystem/11 Logg och hanteringssystem.csproj" />
+  <Project Path="12 Beroendestruktur/12 Beroendestruktur.csproj" />
+  <Project Path="13 Bankomat/13 Bankomat.csproj" />
+  <Project Path="14 Kommandotolk/14 Kommandotolk.csproj" />
+  <Project Path="15 Statisk Fabriksmetod/15 Statisk Fabriksmetod.csproj" />
+</Solution>
